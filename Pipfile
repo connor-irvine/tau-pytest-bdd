@@ -8,6 +8,8 @@ verify_ssl = true
 [packages]
 pytest = "*"
 pytest-bdd = "*"
+requests = "*"
+selenium = "*"
 
 [requires]
 python_version = "3.8"
